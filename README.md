@@ -47,11 +47,11 @@ This project implements a complete AI-powered CV screening system with three mai
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                   │
 │  PDF Upload ──> S3 Service ──> Amazon Knowledge Bases            │
-│                    │                    │                        │
-│                    │                    ├──> Vector Embeddings   │
-│                    │                    ├──> Text Extraction     │
-│                    │                    └──> Indexed Storage     │
-│                    │                                               │
+│                                         │                        │
+│                                         ├──> Vector Embeddings   │
+│                                         ├──> Text Extraction     │
+│                                         └──> Indexed Storage     │
+│                                                                  │
 └─────────────────────────────────────────────────────────────────┘
                               │
                               ▼
