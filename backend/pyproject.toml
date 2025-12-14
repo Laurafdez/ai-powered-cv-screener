@@ -1,0 +1,20 @@
+[project]
+name = "cv-assistant-backend"
+version = "1.0.0"
+description = "CV Assistant Backend with FastAPI, OpenSearch and AWS Bedrock"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.104.1",
+    "uvicorn[standard]>=0.24.0",
+    "python-multipart>=0.0.6",
+    "boto3>=1.29.7",
+    "langchain-aws>=0.1.0",
+    "langchain>=0.1.0",
+    "python-dotenv>=1.0.0",
+    "pypdf2>=3.0.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+

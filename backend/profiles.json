@@ -1,0 +1,182 @@
+[
+  {
+    "name": "John Doe",
+    "gender": "masculino",
+    "role": "Security Engineer",
+    "level": "Junior"
+  },
+  {
+    "name": "Jane Smith",
+    "gender": "femenino",
+    "role": "Security Engineer",
+    "level": "Mid-level"
+  },
+  {
+    "name": "Michael Johnson",
+    "gender": "masculino",
+    "role": "Security Engineer",
+    "level": "Senior"
+  },
+  {
+    "name": "Emily White",
+    "gender": "femenino",
+    "role": "Security Engineer",
+    "level": "Lead"
+  },
+  {
+    "name": "David Brown",
+    "gender": "masculino",
+    "role": "Security Engineer",
+    "level": "Director"
+  },
+  {
+    "name": "Sara Davis",
+    "gender": "femenino",
+    "role": "Data Scientist",
+    "level": "Junior"
+  },
+  {
+    "name": "Carlos García",
+    "gender": "masculino",
+    "role": "Data Scientist",
+    "level": "Mid-level"
+  },
+  {
+    "name": "Laura Rodríguez",
+    "gender": "femenino",
+    "role": "Data Scientist",
+    "level": "Senior"
+  },
+  {
+    "name": "Pedro Martínez",
+    "gender": "masculino",
+    "role": "Data Scientist",
+    "level": "Lead"
+  },
+  {
+    "name": "Lucía Pérez",
+    "gender": "femenino",
+    "role": "Data Scientist",
+    "level": "Director"
+  },
+  {
+    "name": "Mike Johnson",
+    "gender": "masculino",
+    "role": "Product Manager",
+    "level": "Junior"
+  },
+  {
+    "name": "Jessica García",
+    "gender": "femenino",
+    "role": "Product Manager",
+    "level": "Mid-level"
+  },
+  {
+    "name": "Paul Miller",
+    "gender": "masculino",
+    "role": "Product Manager",
+    "level": "Senior"
+  },
+  {
+    "name": "Sofia Garcia",
+    "gender": "femenino",
+    "role": "Product Manager",
+    "level": "Lead"
+  },
+  {
+    "name": "Tomás Sánchez",
+    "gender": "masculino",
+    "role": "Product Manager",
+    "level": "Director"
+  },
+  {
+    "name": "Juan Pérez",
+    "gender": "masculino",
+    "role": "Legal Counsel",
+    "level": "Junior"
+  },
+  {
+    "name": "Isabel Martínez",
+    "gender": "femenino",
+    "role": "Legal Counsel",
+    "level": "Mid-level"
+  },
+  {
+    "name": "Carlos Garcia",
+    "gender": "masculino",
+    "role": "Legal Counsel",
+    "level": "Senior"
+  },
+  {
+    "name": "Ana García",
+    "gender": "femenino",
+    "role": "Legal Counsel",
+    "level": "Lead"
+  },
+  {
+    "name": "Roberto Díaz",
+    "gender": "masculino",
+    "role": "Legal Counsel",
+    "level": "Director"
+  },
+  {
+    "name": "Daniel Rodríguez",
+    "gender": "masculino",
+    "role": "Security Engineer",
+    "level": "Junior"
+  },
+  {
+    "name": "Marta Fernández",
+    "gender": "femenino",
+    "role": "Security Engineer",
+    "level": "Mid-level"
+  },
+  {
+    "name": "Alberto Gómez",
+    "gender": "masculino",
+    "role": "Security Engineer",
+    "level": "Senior"
+  },
+  {
+    "name": "Caroleina Torres",
+    "gender": "femenino",
+    "role": "Security Engineer",
+    "level": "Lead"
+  },
+  {
+    "name": "Andrés González",
+    "gender": "masculino",
+    "role": "Security Engineer",
+    "level": "Director"
+  },
+  {
+    "name": "Sofía Ramírez",
+    "gender": "femenino",
+    "role": "Data Scientist",
+    "level": "Junior"
+  },
+  {
+    "name": "Gabriel López",
+    "gender": "masculino",
+    "role": "Data Scientist",
+    "level": "Mid-level"
+  },
+  {
+    "name": "Julia Sánchez",
+    "gender": "femenino",
+    "role": "Data Scientist",
+    "level": "Senior"
+  },
+  {
+    "name": "Diego Rodríguez",
+    "gender": "masculino",
+    "role": "Data Scientist",
+    "level": "Lead"
+  },
+  {
+    "name": "Pedro Gómez",
+    "gender": "masculino",
+    "role": "Data Scientist",
+    "level": "Director"
+  }
+]
