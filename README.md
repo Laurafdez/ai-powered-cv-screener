@@ -240,7 +240,7 @@ CV_assistant/
 ```json
 {
   "name": "John Doe",
-  "gender": "masculino",
+  "gender": "male",
   "role": "Security Engineer",
   "level": "Junior"
 }
