@@ -320,7 +320,7 @@ def generate_cvs_batch(count=1, languages=['en'], profiles_json_path="profiles.j
 
     profiles = load_profiles_json(profiles_json_path)
 
-    for i, profile in enumerate(profiles, 1):
+    for i, profile in enumerate(profiles[:count], 1):
         try:
             language = random.choice(languages)
             file = create_cv_pdf(i, profile, language)
@@ -342,4 +342,4 @@ def generate_cvs_batch(count=1, languages=['en'], profiles_json_path="profiles.j
     print(f"{'='*70}\n")
 
 if __name__ == "__main__":
-    generate_cvs_batch(count=30, languages=['en'])
+    generate_cvs_batch(count=2, languages=['en'])

@@ -4,16 +4,16 @@ A full-stack AI application for screening and querying CVs using Retrieval-Augme
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Requirements Checklist](#requirements-checklist)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technical Details](#technical-details)
-- [Troubleshooting](#troubleshooting)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Configuration](#️-configuration)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Technical Details](#-technical-details)
+- [API Endpoints](#-api-endpoints)
+- [Architecture](#️-architecture)
+- [License](#-license)
 
 ## 🎯 Overview
 
