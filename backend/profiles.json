@@ -1,181 +1,181 @@
 [
   {
     "name": "John Doe",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Security Engineer",
     "level": "Junior"
   },
   {
     "name": "Jane Smith",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Security Engineer",
     "level": "Mid-level"
   },
   {
     "name": "Michael Johnson",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Security Engineer",
     "level": "Senior"
   },
   {
     "name": "Emily White",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Security Engineer",
     "level": "Lead"
   },
   {
     "name": "David Brown",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Security Engineer",
     "level": "Director"
   },
   {
     "name": "Sara Davis",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Data Scientist",
     "level": "Junior"
   },
   {
     "name": "Carlos García",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Data Scientist",
     "level": "Mid-level"
   },
   {
     "name": "Laura Rodríguez",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Data Scientist",
     "level": "Senior"
   },
   {
     "name": "Pedro Martínez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Data Scientist",
     "level": "Lead"
   },
   {
     "name": "Lucía Pérez",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Data Scientist",
     "level": "Director"
   },
   {
     "name": "Mike Johnson",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Product Manager",
     "level": "Junior"
   },
   {
     "name": "Jessica García",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Product Manager",
     "level": "Mid-level"
   },
   {
     "name": "Paul Miller",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Product Manager",
     "level": "Senior"
   },
   {
     "name": "Sofia Garcia",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Product Manager",
     "level": "Lead"
   },
   {
     "name": "Tomás Sánchez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Product Manager",
     "level": "Director"
   },
   {
     "name": "Juan Pérez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Legal Counsel",
     "level": "Junior"
   },
   {
     "name": "Isabel Martínez",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Legal Counsel",
     "level": "Mid-level"
   },
   {
     "name": "Carlos Garcia",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Legal Counsel",
     "level": "Senior"
   },
   {
     "name": "Ana García",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Legal Counsel",
     "level": "Lead"
   },
   {
     "name": "Roberto Díaz",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Legal Counsel",
     "level": "Director"
   },
   {
     "name": "Daniel Rodríguez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Security Engineer",
     "level": "Junior"
   },
   {
     "name": "Marta Fernández",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Security Engineer",
     "level": "Mid-level"
   },
   {
     "name": "Alberto Gómez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Security Engineer",
     "level": "Senior"
   },
   {
     "name": "Caroleina Torres",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Security Engineer",
     "level": "Lead"
   },
   {
     "name": "Andrés González",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Security Engineer",
     "level": "Director"
   },
   {
     "name": "Sofía Ramírez",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Data Scientist",
     "level": "Junior"
   },
   {
     "name": "Gabriel López",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Data Scientist",
     "level": "Mid-level"
   },
   {
     "name": "Julia Sánchez",
-    "gender": "femenino",
+    "gender": "female",
     "role": "Data Scientist",
     "level": "Senior"
   },
   {
     "name": "Diego Rodríguez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Data Scientist",
     "level": "Lead"
   },
   {
     "name": "Pedro Gómez",
-    "gender": "masculino",
+    "gender": "male",
     "role": "Data Scientist",
     "level": "Director"
   }
